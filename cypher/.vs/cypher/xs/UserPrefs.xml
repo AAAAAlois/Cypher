@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{14840724-0157-2D4F-3F59-2C357A87ADC3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/ChatController.cs">
+    <Files>
+      <File FileName="Assets/Script/ClearChange3.cs" Line="40" Column="79" />
+      <File FileName="Assets/Script/OnEnd.cs" Line="58" Column="1" />
+      <File FileName="Assets/Script/ScoreManager.cs" />
+      <File FileName="Assets/Script/SceneChange.cs" />
+      <File FileName="Assets/Script/Drag.cs" />
+      <File FileName="Assets/Script/RobotWalk.cs" />
+      <File FileName="Assets/Script/ChatSquareController.cs" />
+      <File FileName="Assets/Script/MoreChoice.cs" />
+      <File FileName="Assets/Script/ChatController.cs" Line="27" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cypher" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Download" expanded="True">
+                <Node name="Robot" expanded="True">
+                  <Node name="Toon Shading" expanded="True">
+                    <Node name="Sources" expanded="True">
+                      <Node name="Shaders" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Script" expanded="True">
+                <Node name="ChatController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="07820079-2111-4e5f-b9a5-c6d26633baf2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
